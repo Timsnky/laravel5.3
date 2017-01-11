@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+/*
+     * Home
+     */
+Route::get('/', [
+    'as' => 'home',
+    'uses' => 'Dashboard\IndexController@index'
+]);

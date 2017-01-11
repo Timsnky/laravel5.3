@@ -87,6 +87,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <button type="button" class="success button">Save</button>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>

@@ -16,4 +16,4 @@
 
 {!! Html::script('/assets/js/responsive-tables.min.js') !!}
 
-{!! Html::script('/assets/js/cres.min.js') !!}
+
